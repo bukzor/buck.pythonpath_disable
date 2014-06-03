@@ -1,0 +1,2 @@
+import nopwd; nopwd.disable_pwd_syspath()
+# vim:ft=python:textwidth=0:
